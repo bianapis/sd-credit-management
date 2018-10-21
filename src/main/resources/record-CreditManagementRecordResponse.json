@@ -1,0 +1,12 @@
+{
+  "transactionType" : "TT5",
+  "transactionRecordBookingEntity" : "45734763",
+  "transactionRecord" : 35473,
+  "managedPositionReference" : "457342",
+  "transactionReference" : "754626",
+  "recordingRecordReference" : "RRR4678",
+  "transactionRecordValueDate" : "01/01/2018",
+  "transactionRecordAmount" : "$5000",
+  "managedPositionType" : "consolidated customer exposure",
+  "recordingRecordStatus" : "Applied"
+}
